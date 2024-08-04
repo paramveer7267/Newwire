@@ -37,8 +37,8 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] xl:mr-8" href="#hero">
-          <img src="https://raw.githubusercontent.com/paramveer7267/logos/main/newwire header.png" width={120} height={30} alt="Newwire" />
-          <span>Newwire</span>
+          <img src="https://raw.githubusercontent.com/paramveer7267/logos/main/newwire header.png" width={120} height={20} alt="Newwire" />
+          <span style="text-align:center;">Newwire</span>
         </a>
 
         <nav
